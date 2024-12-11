@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    background-color: black;
+    display: block;
+    height: 50px;
+}
+
+img{
+    height: 400px;
+    width: 800px;
+    border-radius: 50%;
+}
